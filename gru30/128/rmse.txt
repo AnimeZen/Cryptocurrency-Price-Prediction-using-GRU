@@ -1,0 +1,10 @@
+RMSE (Bitcoin): 689.042732
+RMSE (Ethereum): 47.176984
+RMSE (Cardano): 0.026321
+RMSE (Dogecoin): 0.003356
+RMSE (Solana): 0.869506
+RMSE (Polygon): 0.041146
+RMSE (TRON): 0.001805
+RMSE (Litecoin): 3.373118
+RMSE (Polkadot): 0.384011
+RMSE (Avalanche): 0.726586
