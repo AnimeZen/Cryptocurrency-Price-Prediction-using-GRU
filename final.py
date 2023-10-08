@@ -97,7 +97,7 @@ days = st.sidebar.slider("Days", min_value=15, max_value=60, value=30, step=15)
 hidden_size = st.sidebar.selectbox("Hidden Size", hidden_size_options, index=1)
 
 # Get the corresponding file locations based on the selected options
-file_location = f"file/gru{days}/{hidden_size}"
+file_location = f"gru{days}/{hidden_size}"
 
 # Get the identifier
 if tickerSymbol:
